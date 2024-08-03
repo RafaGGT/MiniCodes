@@ -1,0 +1,29 @@
+{
+    "projects": [
+        {
+            "name": "aerovia-express",
+            "src": "AeroviaExpress",
+            "alias": "aerovia-express-rafaggt.vercel.app"
+        },
+        {
+            "name": "asistente-eva",
+            "src": "AsistenteEva",
+            "alias": "asistente-eva-rafaggt.vercel.app"
+        },
+        {
+            "name": "banco-en-linea",
+            "src": "BancoEnLinea",
+            "alias": "banco-en-linea-rafaggt.vercel.app"
+        },
+        {
+            "name": "responsive-cats",
+            "src": "ResponsiveCats",
+            "alias": "responsive-cats-rafaggt.vercel.app"
+        },
+        {
+            "name": "skyp",
+            "src": "SKYP",
+            "alias": "skyp-rafaggt.vercel.app"
+        }
+    ]
+}
